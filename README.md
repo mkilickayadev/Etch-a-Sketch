@@ -1,4 +1,5 @@
 # Etch-a-Sketch Project
+**🔗 [Live Preview](https://mkilickayadev.github.io/Etch-a-Sketch/)**
     This project is the Etch-a-Sketch's implementation on browser environment in the Scope of The Odin Project. The project is based on interactive-UI, DOM manipulation, event delegation, and clean code principles.
 
 ## Key Features
@@ -23,7 +24,7 @@
     The game logic and UI components were seperated from each other for preventing the side effects. In addition, in the game logic each different task is carried out by a seperate function.
 
 ## How to Run
-
+**🔗 [Live Preview](https://mkilickayadev.github.io/Etch-a-Sketch/)**
 1. Clone this repository to your local machine.
 
 2. Open the index.html file in any modern web browser.
